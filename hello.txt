@@ -1,1 +1,1 @@
-﻿Hello from local branch
+﻿Hello from local branch and remote branch
